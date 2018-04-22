@@ -1,0 +1,130 @@
+.headertext {
+ font-family: 'Raleway', sans-serif;
+ text-align: center;
+ font-size: 30px;  
+ 
+}
+
+
+
+.active {
+  background-color: #4CAF50;
+ 
+}
+
+.navbar-content {
+  display: inline;
+  float: left;
+  
+}
+
+
+.navbar-content a{
+    display: block;
+    color: white;
+    text-align: right;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-family: "Rubik";
+    margin: auto;  
+    width: 100%;
+    text-align: center;
+    
+    
+
+  
+ 
+}
+
+
+ 
+ul {
+  background-color: gray;
+  list-style-type: none;
+  margin: 0;
+  padding: 10;
+  overflow: hidden;
+  width: fill;
+  text-align: center;
+  align-content: center;
+  border: 1px solid;
+  margin-left: 25px;
+  margin-right: 25px;
+ }
+
+
+
+
+
+.whatiscommunity {
+    font-family: Rubik;
+    font-size: 18px;
+    margin-left: 50px;
+    
+    
+    
+}
+
+
+    
+.cimg {
+    width: 500px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 50px;
+   
+}
+
+
+
+a:visited {
+    color: black;
+    text-decoration-line: none;
+}
+
+a:link {
+    color: black;
+    text-decoration-line: none
+}
+   
+a:hover {
+    color: white;
+
+}
+    
+    
+.dComm {
+    
+    font-family: Lato;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-right: 750px;
+    
+}
+
+    
+.eComm {
+    
+    font-family: Lato;
+    font-size: 16px;
+    margin-left: 750px;
+    margin-right: 50px;
+   
+}
+
+.whatiscommunity2 {
+    
+    font-family: Rubik;
+    font-size: 18px;
+    margin-left: 750px;
+    
+}
+    
+
+.indexBackground {
+    
+    background-image: url("https://www.brewsterwallcovering.com/data/default/images/catalog/original/347-63804.jpg");
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
