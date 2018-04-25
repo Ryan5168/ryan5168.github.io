@@ -22,7 +22,7 @@
 .navbar-content a{
     display: block;
     color: white;
-    text-align: right;
+    text-align: left;
     padding: 10px 30px;
     text-decoration: none;
     font-family: "Rubik";
@@ -42,14 +42,14 @@ ul {
   background-color: gray;
   list-style-type: none;
   margin: 0;
-  padding: 10;
+  padding: 10px;
   overflow: hidden;
   width: fill;
   text-align: center;
   align-content: center;
   border: 1px solid;
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
  }
 
 
