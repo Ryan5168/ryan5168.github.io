@@ -69,10 +69,19 @@ ul {
     
 .cimg {
     width: 500px;
-    margin-top: x;
     margin-left: 750px;
    
 }
+
+figcaption {
+    font-family: Lato;
+    font-size: 24px;
+    margin-left: 750px;
+    margin-top: 20px;
+    
+    
+}
+
 
 
 
@@ -97,7 +106,7 @@ a:hover {
     font-family: Lato;
     font-size: 16px;
     margin-left: 50px;
-    margin-right: 750px;
+    margin-right: 50px;
     
 }
 
@@ -106,7 +115,7 @@ a:hover {
     
     font-family: Lato;
     font-size: 16px;
-    margin-left: 750px;
+    margin-left: 50px;
     margin-right: 50px;
    
 }
